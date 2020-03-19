@@ -1,4 +1,6 @@
-<?php return [
+<?php 
+
+return [
     'plugin' => [
         'name' => 'User Plus+',
         'description' => '为用户插件增加用户信息字段',
